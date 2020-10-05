@@ -10,7 +10,7 @@ Alternatively, if you don’t have and don’t want to create a Google account, 
 
 The presentation and the Notebooks may be found [here](https://github.com/coolernato/Introduction-to-Python). If you want to undertake the course on your own laptop, you may want to download them. However, you do not need to read them before attending.
 
-### Webianr Instructions
+### Webinar Instructions
 
 To complete this course, you will need to run Jupyter Notebook files on your computer. The easiest way to do this is to ensure you have a Google account. This will allow us to use the online Google Colab tool to run the notebooks on the day.
 
