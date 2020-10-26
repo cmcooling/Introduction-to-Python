@@ -2,7 +2,7 @@
 
 ## Pre-Course Instructions
 
-### Face to Face Course
+### Face to Face Course Instructions
 
 This course will take place in an ICT computer room and so laptops are not required but you may bring one if you wish. Please make sure it is fully charged. This course will involve the running of Jupyter Notebook files. The easiest way to do this is to ensure you have a Google account. This will allow you to use the online Google Colab tool to run the notebooks on the day.
 
