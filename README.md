@@ -1,4 +1,4 @@
-# Introduction-to-Python
+# Introduction to Python
 
 ## Pre-Course Instructions
 
