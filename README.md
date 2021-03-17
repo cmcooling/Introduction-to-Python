@@ -22,5 +22,6 @@ The following are links to the Notebooks which will open in Google Colab. To use
 * [Conditionals](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/Conditionals.ipynb>)
 * [Loops](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/Loops.ipynb>)
 * [Functions](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/Functions.ipynb>)
+* [Tuples](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/Tuples.ipynb>)
 * [Importing Modules](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/Importing Modules.ipynb>)
 * [Errors and Exceptions](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/Errors and Exceptions.ipynb>)
