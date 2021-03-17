@@ -16,7 +16,7 @@ The following are links to the Notebooks which will open in Google Colab. To use
 
 * [What is Coding?](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/What is Coding.ipynb>)
 * [What is Python?](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/What is Python.ipynb>)
-* [Using Jupyter Notebooks](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICRr/Using Jupyter Notebooks.ipynb>)
+* [Using Jupyter Notebooks](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/Using Jupyter Notebooks.ipynb>)
 * [My First Program](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/My First Program.ipynb>)
 * [Variables and Assignment](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/Variables and Assignment.ipynb>)
 * [Conditionals](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/ICR/Conditionals.ipynb>)
