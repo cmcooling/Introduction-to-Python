@@ -8,7 +8,7 @@ To complete this course, you will need to run Jupyter Notebook files on your com
 
 Alternatively, if you don’t have and don’t want to create a Google account, you may instead install Anaconda on your computer by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/).
 
-The presentation and the Notebooks may be downloaded [here](https://github.com/coolernato/Introduction-to-Python/archive/master.zip). If you want to undertake the course on your own laptop, you may want to download them. However, you do not need to read them before attending.
+The presentation and the Notebooks may be downloaded [here](https://github.com/coolernato/Introduction-to-Python/archive/refs/heads/master.zip). If you want to undertake the course on your own laptop, you may want to download them. However, you do not need to read them before attending.
 
 ### Face to Face Course Instructions
 
@@ -16,7 +16,7 @@ This course will take place in an ICT computer room and so laptops are not requi
 
 Alternatively, if you don’t have and don’t want to create a Google account, Imperial computers (including those in the computer rooms) will have Anaconda available to them through the Software Hub which will also allow the running of Jupyter Notebooks. You may also chose to install Anaconda on your personal machine by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/).
 
-The presentation and the Notebooks may be downloaded [here](https://github.com/coolernato/Introduction-to-Python/archive/master.zip). If you want to undertake the course on your own laptop, you may want to download them. However, you do not need to read them before attending.
+The presentation and the Notebooks may be downloaded [here](https://github.com/coolernato/Introduction-to-Python/archive/refs/heads/master.zip). If you want to undertake the course on your own laptop, you may want to download them. However, you do not need to read them before attending.
 
 ## Colab Links
 
